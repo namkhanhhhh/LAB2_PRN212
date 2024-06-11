@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6mlOtVB6YszV/vbU7zWnu2Sv9E9imN0nhb+/ouK4KPRZUrOTyu4OzV5aBxUQ73IZEy2iLk1+xs8ui6dJJhDGhw==",
+  "success": true,
+  "projectFilePath": "F:\\Ky 5\\PRN212\\ProductManagementDemo\\LAB1_PRN212\\BusinessObjects\\BusinessObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

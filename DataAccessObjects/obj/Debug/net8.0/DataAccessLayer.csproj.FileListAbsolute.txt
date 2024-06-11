@@ -1,0 +1,16 @@
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll.config
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.runtimeconfig.json
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+F:\Ky 5\PRN212\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll

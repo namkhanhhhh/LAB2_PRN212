@@ -1,0 +1,9 @@
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+F:\Ky 5\PRN212\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
