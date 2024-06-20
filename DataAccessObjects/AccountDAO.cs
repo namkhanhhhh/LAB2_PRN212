@@ -1,4 +1,5 @@
 ﻿using BusinessObjects;
+using DataAccessObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,14 +12,16 @@ namespace DataAccessLayer
     {
         public static AccountMember GetAccountById(string accountID)
         {
-            AccountMember accountMember=new AccountMember();
+            using var db = new MyStoreContext();
+            return db.AccountMember.FirstOrDefault(c => c.MemberId.Equals(accountID));
+            /*AccountMember accountMember = new AccountMember();
             if (accountID.Equals("PS0001"))
             {
                 accountMember.MemberId = accountID;
                 accountMember.MemberPassword = "@1";
                 accountMember.MemberRole = 1;
             }
-            return accountMember;
+            return accountMember;*/
         }
     }
 }

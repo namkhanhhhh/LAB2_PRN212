@@ -20,7 +20,7 @@ namespace DataAccessObjects
         {
         }
 
-        public virtual DbSet<AccountMember> AccountMembers { get; set; }
+        public virtual DbSet<AccountMember> AccountMember { get; set; }
 
         public virtual DbSet<Category> Categories { get; set; }
 
